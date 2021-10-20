@@ -26,7 +26,7 @@ ul {
 }
 
 .content {
-    width: 500 px;
+    width: 500px;
     margin: 0 auto;
     text-align: center;
 }
@@ -34,6 +34,9 @@ ul {
 footer {
     background-color: #373738;
     text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 footer ul {
